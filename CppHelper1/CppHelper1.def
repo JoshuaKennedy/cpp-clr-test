@@ -1,0 +1,4 @@
+LIBRARY
+
+DllEnsureInit   PRIVATE
+DllForceTerm   PRIVATE
